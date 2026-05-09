@@ -10,7 +10,6 @@ title: "Frameworks vs Examples"
     
 
 
-![Diagram](../images/architect_position.png)
 
 
 
