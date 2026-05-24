@@ -9,4 +9,5 @@ tags:
 ## Mr.EA Charter
 
 - Do with not to
+- Another charter item
 - Anopther bullet
